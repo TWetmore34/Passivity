@@ -1,0 +1,43 @@
+
+[
+    {
+      "username": "A. Einstein",
+      "email": "test1@gmail.com",
+      "password": "password1234"
+    },
+    {
+      "username": "Steph Curry",
+      "email": "test2@gmail.com",
+      "password": "password1234"
+    },
+    {
+      "username": "Joyce Meyer",
+      "email": "test3@gmail.com",
+      "password": "password1234"
+
+    },
+    {
+      "username": "Voltaire",
+      "email": "test4@gmail.com",
+      "password": "password1234"
+
+    },
+    {
+      "username": "D. Carnegie",
+      "email": "test5@gmail.com",
+      "password": "password1234"
+
+    },
+    {
+      "username": "Harry Golden",
+      "email": "test6@gmail.com",
+      "password": "password1234"
+
+    },
+    {
+      "username": "Ray Davis",
+      "email": "test7@gmail.com",
+      "password": "password1234"
+
+    }
+  ]
